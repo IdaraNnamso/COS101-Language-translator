@@ -23,7 +23,7 @@ yoruba_dictionary  = { # Akpan Excellence BHU/25/04/13/0014
 
 }
 
-zulu_dictionary = { #Emmanuel Igoh BHU/04/09/0126
+zulu_dictionary = { #Emmanuel Igoh BHU/25/04/09/0126
     "good morning" : "sawubona",
     "come" : "woza",
     "enter" : "faka",
