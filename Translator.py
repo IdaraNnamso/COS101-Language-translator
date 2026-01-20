@@ -44,6 +44,30 @@ yoruba_dictionary  = { # Akpan Excellence BHU/25/04/13/0014
     "sister": "Yar'uwa",
     "school": "Makaranta",
 }
+
+igbo_dictionary = { #ADELEKE OLUWATOBILOBA SAMUEL BHU/25/04/05/0042
+    "hello": "kedu",  
+    "Thank you": "Imena",
+    "sorry": "Ndo",
+    "water": "Mniri",
+    "Goodbye": "Ka omesia",
+    "food": "Nri",
+    "House": "Ulo",
+    "Please": "Biko",
+    "Family": "Ezinuio",
+    "Mother": "Nne",
+    "Father": "Nna",
+    "Child": "Nwa",
+    "Friend": "Enyi",
+    "Day": "Ubochi",
+    "Night": "Abali",
+    "One": "Otu",
+    "Two": "Abuo",
+    "Good": "Oma",
+    "Yes": "Ee",
+    "Love": "Ihunaya"
+   
+}
 # Akpan Excellence BHU/25/04/13/0014
 st.title("Language Translator")
 st.markdown("## Welcome to the Language Translator App")
