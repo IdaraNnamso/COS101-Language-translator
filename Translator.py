@@ -23,28 +23,26 @@ yoruba_dictionary  = { # Akpan Excellence BHU/25/04/13/0014
 
 }
 
-zulu_dictionary = { #Emmanuel Igoh BHU/25/04/09/0126
-    "good morning" : "sawubona",
-    "come" : "woza",
-    "enter" : "faka",
-    "say" : "ukuthi",
-    "go" : "hamba",
-    "wash" : "ukuhlamba",
-    "big" : "inkulu",
-    "dog" : "inja",
-    "food" : "ukudla",
-    "short" : "okufutshane",
-    "brother" : "mfowethu",
-    "hear" : "zwa",
-    "talk" : "inkulumo",
-    "sister" : "dadewethu",
-    "sing" : "hlabelelani",
-    "run" : "gijima",
-    "fan" : "umlandeli",
-    "car" : "imoto",
-    "chair" : "isihlalo",
-    "eat" : "yidla",
-
+ hausa_dictionary = { #Emmanuel Igoh BHU/25/04/09/0126
+   "hello": "Sannu",
+    "bye": "Sai anjima",
+    "good morning": "Ina kwana",
+    "good evening": "Barka da yamma",
+    "welcome": "Maraba",
+    "thank you": "Nagode",
+    "food": "Abinci",
+    "how are you": "Yaya kake?",
+    "come": "Zo",
+    "go": "Tafi",
+    "father": "Uba",
+    "mother": "Uwa",
+    "boy": "Yaro",
+    "girl": "Yarinya",
+    "money": "Kudi",
+    "what is your name": "Menene sunanka?",
+    "brother": "Dan'uwa",
+    "sister": "Yar'uwa",
+    "school": "Makaranta",
 }
 # Akpan Excellence BHU/25/04/13/0014
 st.title("Language Translator")
