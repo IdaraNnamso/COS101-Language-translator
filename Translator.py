@@ -92,6 +92,30 @@ zulu_dictionary = { #Sadiq abubakar hashim BHU/25/04/09/0075
     "eat" : "yidla",
 
 }
+
+igala_dictionary = { #Richard Ogbonna BHU/25/04/13/0012
+"hello": "àgba",
+"bye" : "chegbà tó bà",
+"good morning" : "olodu",
+"good evening" : "olane",
+"welcome" : "olale",
+"thank you" : "Nagó",
+"food" : "Ujewu",
+"well done" : "Olacolo",
+"Water" : "Omi",
+"come" : "wá",
+"go to bed" : "na dachi",
+"father" : "attah",
+"mother" : "iye",
+"boy" : "Ikolobia",
+"girl" : "Ibele",
+"money" : "okó",
+"what is your name" : "Kí ni orukó ẹ",
+"plate" : "uchibu",
+"good afternoon" : "óroka",
+"school" : "chubulu",
+
+}
 # Akpan Excellence BHU/25/04/13/0014
 st.title("Language Translator")
 st.markdown("## Welcome to the Language Translator App")
