@@ -68,6 +68,30 @@ igbo_dictionary = { #ADELEKE OLUWATOBILOBA SAMUEL BHU/25/04/05/0042
     "Love": "Ihunaya"
    
 }
+
+zulu_dictionary = { #Sadiq abubakar hashim BHU/25/04/09/0075
+    "good morning" : "sawubona",
+    "come" : "woza",
+    "enter" : "faka",
+    "say" : "ukuthi",
+    "go" : "hamba",
+    "wash" : "ukuhlamba",
+    "big" : "inkulu",
+    "dog" : "inja",
+    "food" : "ukudla",
+    "short" : "okufutshane",
+    "brother" : "mfowethu",
+    "hear" : "zwa",
+    "talk" : "inkulumo",
+    "sister" : "dadewethu",
+    "sing" : "hlabelelani",
+    "run" : "gijima",
+    "fan" : "umlandeli",
+    "car" : "imoto",
+    "chair" : "isihlalo",
+    "eat" : "yidla",
+
+}
 # Akpan Excellence BHU/25/04/13/0014
 st.title("Language Translator")
 st.markdown("## Welcome to the Language Translator App")
