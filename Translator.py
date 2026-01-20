@@ -116,6 +116,16 @@ igala_dictionary = { #Richard Ogbonna BHU/25/04/13/0012
 "school" : "chubulu",
 
 }
+
+dictionaries = {
+    "yoruba": yoruba_dictionary,
+    "hausa": hausa_dictionary,
+    "igbo": igbo_dictionary,
+    "igala": igala_dictionary,
+    "zulu": zulu_dictionary,
+    "igala": igala_dictionary,
+}
+
 # Akpan Excellence BHU/25/04/13/0014
 st.title("Language Translator")
 st.markdown("## Welcome to the Language Translator App")
